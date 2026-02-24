@@ -1,4 +1,4 @@
-# Hi 👋, I'm José
+# Hi 👋🏽, I'm José
 
 ### Full Stack Student
 
