@@ -14,7 +14,7 @@
 ## 🌎 Connect with me
 <p align="left">
 <a href="https://twitter.com/TU_USUARIO" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/TU_USUARIO" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/jose-hernandez-webdeveloper/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
 <a href="https://instagram.com/TU_USUARIO" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" height="30" width="30" /></a>
 </p>
 
