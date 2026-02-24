@@ -34,3 +34,9 @@
 ## 🌎 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/jose-hernandez-webdeveloper/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/josehvilla/josehvilla/output/github-contribution-grid-snake.svg" />
+</p>
