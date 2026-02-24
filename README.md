@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm José
 
-<!--
-**josehvilla/josehvilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Student
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on **Full Stack Projects**
+- 🌱 I'm currently learning **Cloud & DevOps**
+- 👯 I'm looking to collaborate on **Open Source**
+- 💬 Ask me about **Web Development**
+- 📫 How to reach me: **jose_hvilla@live.com.mx**
+- ⚡ Fun fact: I love Taylor Swift Music ☕ and clean code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📝 Blog posts
+- 🚀 How I built my first full-stack app
+- ⚡ What I learned about performance optimization
+- 🧠 Why clean architecture matters
+- 🔥 My favorite dev tools this year
+
+---
+
+## 🌎 Connect with me
+<p align="left">
+<a href="https://twitter.com/TU_USUARIO" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/TU_USUARIO" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="https://instagram.com/TU_USUARIO" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" height="30" width="30" /></a>
+</p>
+
+---
+
+## 🛠 Languages and Tools
+<p align="left"> 
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
