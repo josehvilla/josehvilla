@@ -11,14 +11,6 @@
 
 ---
 
-## 📝 Blog posts
-- 🚀 How I built my first full-stack app
-- ⚡ What I learned about performance optimization
-- 🧠 Why clean architecture matters
-- 🔥 My favorite dev tools this year
-
----
-
 ## 🌎 Connect with me
 <p align="left">
 <a href="https://twitter.com/TU_USUARIO" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" /></a>
