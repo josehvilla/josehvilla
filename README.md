@@ -11,13 +11,6 @@
 
 ---
 
-## 🌎 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/jose-hernandez-webdeveloper/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-</p>
-
----
-
 ## 🛠 Languages and Tools
 <p align="left"> 
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/></a>
@@ -35,3 +28,9 @@
 ![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+
+---
+
+## 🌎 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/jose-hernandez-webdeveloper/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
