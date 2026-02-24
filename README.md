@@ -14,7 +14,7 @@
 ## 🛠 Languages and Tools
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,sass,bootstrap,git,github,firebase,netlify,jquery,nodejs,ts,react,tailwind,idea,docker,maven,gradle,mysql,aws&perline=11" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,sass,bootstrap,git,github,firebase,nodejs,ts,react,tailwind,idea,docker,maven,gradle,mysql,aws&perline=10" />
   </a>
 </p>
 
