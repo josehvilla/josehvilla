@@ -38,6 +38,5 @@
 ---
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/josehvilla/josehvilla/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://raw.githubusercontent.com/josehvilla/josehvilla/output/github-contribution-grid-snake.svg" />
 </p>
