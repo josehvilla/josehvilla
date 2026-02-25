@@ -46,6 +46,8 @@
   </a>
 </p>
 
+---
+
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
