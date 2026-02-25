@@ -13,8 +13,8 @@
 
 ## 🛠 Languages and Tools
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,vscode,html,css,js,sass,bootstrap,git,github,firebase,nodejs,ts,react,tailwind,idea,java,docker,maven,gradle,mysql,aws&perline=10" />
+  <a>
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,sass,bootstrap,git,github,firebase,nodejs,ts,react,tailwind,idea,java,docker,maven,gradle,mysql,aws&perline=10" />
   </a>
 </p>
 
@@ -29,6 +29,7 @@
 
 ## 🌎 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/jose-hernandez-webdeveloper/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
+  <a href="https://www.linkedin.com/in/jose-hernandez-webdeveloper/)">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=10" />
   </a>
 </p>
