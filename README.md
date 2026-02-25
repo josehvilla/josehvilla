@@ -1,6 +1,6 @@
 # Hi 👋🏽, I'm José
 
-### 👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me
 
 - 🔭 I'm currently working on **Full Stack Projects**
 - 🌱 I'm currently learning **Cloud & DevOps**
