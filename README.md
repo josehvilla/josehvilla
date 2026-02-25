@@ -22,7 +22,7 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/josehvilla">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josehvilla&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josehvilla&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -44,4 +44,10 @@
   <a href="#">
     <img src="https://skillicons.dev/icons?i=x&perline=10" />
   </a>
+</p>
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
