@@ -29,16 +29,16 @@
 
 ## 🌎 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/jose-hernandez-webdeveloper/)">
+  <a href="https://www.linkedin.com/in/jose-hernandez-webdeveloper/">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=10" />
   </a>
-  <a>
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=discord&perline=10" />
   </a>
-  <a>
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=instagram&perline=10" />
   </a>
-  <a>
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=x&perline=10" />
   </a>
 </p>
