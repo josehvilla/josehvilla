@@ -12,8 +12,8 @@
 ---
 
 ## 🛠 Languages and Tools
-<p align="left">
-  <a href="#">
+<p align="left"> 
+<a href="#">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,sass,bootstrap,git,github,firebase,nodejs,ts,react,tailwind,idea,java,docker,maven,gradle,mysql,postman,aws&perline=10" />
   </a>
 </p>
