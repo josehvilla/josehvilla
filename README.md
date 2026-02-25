@@ -32,4 +32,13 @@
   <a href="https://www.linkedin.com/in/jose-hernandez-webdeveloper/)">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=10" />
   </a>
+  <a>
+    <img src="https://skillicons.dev/icons?i=facebook&perline=10" />
+  </a>
+  <a>
+    <img src="https://skillicons.dev/icons?i=instagram&perline=10" />
+  </a>
+  <a>
+    <img src="https://skillicons.dev/icons?i=twitter&perline=10" />
+  </a>
 </p>
