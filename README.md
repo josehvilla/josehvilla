@@ -14,7 +14,7 @@
 ## 🛠 Languages and Tools
 <p align="left">
   <a>
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,sass,bootstrap,git,github,firebase,nodejs,ts,react,tailwind,idea,java,docker,maven,gradle,mysql,aws&perline=10" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,sass,bootstrap,git,github,firebase,nodejs,ts,react,tailwind,idea,java,docker,maven,gradle,mysql,postman,aws&perline=10" />
   </a>
 </p>
 
@@ -33,12 +33,12 @@
     <img src="https://skillicons.dev/icons?i=linkedin&perline=10" />
   </a>
   <a>
-    <img src="https://skillicons.dev/icons?i=facebook&perline=10" />
+    <img src="https://skillicons.dev/icons?i=discord&perline=10" />
   </a>
   <a>
     <img src="https://skillicons.dev/icons?i=instagram&perline=10" />
   </a>
   <a>
-    <img src="https://skillicons.dev/icons?i=twitter&perline=10" />
+    <img src="https://skillicons.dev/icons?i=x&perline=10" />
   </a>
 </p>
